@@ -1,0 +1,24 @@
+{
+    "Basic Information": {
+        "Name": "Mica Porras",
+        "Birthday": "January 27, 2003",
+        "Age": "23 years old",
+        "Gender": "Female",
+        "Address": "Blk 16 Lot 27 Unknown Subdivision, San Jose, Rodriguez, Rizal ",
+        "Email": "porras123@gmail.com",
+        "Phone Number": "09199627231"
+    },
+    "Objectives": {
+        "Career Objectives": "To become a professional Computer Engineer. Also, to work for an Engineering Company amd contribute to the company's way of success as one of their reliable Engineer "
+    },
+    "Educational Background": {
+        "Elementary": "Studied at Apple School from 2009 to 2015 and graduated as a Valedictorian",
+        "Junior High School": "Studied at Valley School from 2015 to 2019 and graduated with Honors",
+        "Senior High School": "Studied at Our Lady of Fatima University from 2019 to 2021 and graduated with Honors",
+        "College": "Studied at Polytechnic University of the Philippined from 2021 to 2025"
+    },
+    "Experience": {
+        "College": "4 years learning experience about programming and experienced two On-the-Job Tranining",
+        "Professional": "None as of the moment"
+    }
+}
